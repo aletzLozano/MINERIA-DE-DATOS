@@ -13,4 +13,4 @@ TRABAJOS HECHO A LO LARGO DEL CURSO AGOSTO ENERO 2020-2021
 
 ## Fase_2
 * [Base_de_datos]()
-* [Ejercicios_Python]()
+* [Ejercicios_Python](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/PythonBasico_1647656.ipynb)
