@@ -19,4 +19,4 @@ TRABAJOS HECHO A LO LARGO DEL CURSO AGOSTO ENERO 2020-2021
 
 ## Fase_3
 * [Primer_ejercicio_limpieza](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/Pr%C3%A1ctica_1_Limpieza_de_datos.pdf)
-* [Segundo_ejercicio](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/Practica%202.ipynb)
+* [Segundo_ejercicio](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/Practica%202(actualizada).ipynb)
