@@ -16,7 +16,8 @@ TRABAJOS HECHO A LO LARGO DEL CURSO AGOSTO ENERO 2020-2021
 * [Ejercicios_Python](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/PythonBasico_1647656.ipynb)
 * [Primer_Avanze_del_Proyecto_Integrador](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/Avance1-PIA_Equipo_02_Grupo012.pdf)
 * [Ejercicios_Mineria](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/EJERCICIO%20GRAFICAS.pdf)
-
-## Fase_3
 * [Primer_ejercicio_limpieza](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/Pr%C3%A1ctica_1_Limpieza_de_datos.pdf)
 * [Segundo_ejercicio](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/Practica%202(actualizada).ipynb)
+
+## Fase_3
+* [Segundo_Avanza_PIA]()
