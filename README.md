@@ -21,4 +21,4 @@ TRABAJOS HECHO A LO LARGO DEL CURSO AGOSTO ENERO 2020-2021
 
 ## Fase_3
 * [Segundo_Avanza_PIA](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/SEGUNDO%20AVANCE%20(Final).ipynb)
-* [Poster_Proyecto_Final](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/Poster_Final.jpg)
+* [Poster_Proyecto_Final]()
